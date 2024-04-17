@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstProgram</string>
+    <string name="my_project">My project</string>
+
+    <string name="calculate_"><u>Calculate Your BMI</u></string>
+    <string name="calculate">Calculate</string>
+    <string name="health">You are Healthy</string>
+</resources>

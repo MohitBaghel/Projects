@@ -73,6 +73,10 @@ try {
     }
 
 
+//Api -> Retrofit -> client -> Api Interface -> figma/Adobe xd
+
+
+
 
 
 

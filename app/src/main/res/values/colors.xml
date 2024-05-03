@@ -6,4 +6,5 @@
     <color name="yellow">#E1CB10</color>
     <color name="blue">#1082DD</color>
     <color name="green">#38F141</color>
+    <color name="transparent">#28FFFFFF</color>
 </resources>

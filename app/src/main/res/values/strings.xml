@@ -5,4 +5,7 @@
     <string name="calculate_"><u>Calculate Your BMI</u></string>
     <string name="calculate">Calculate</string>
     <string name="health">You are Healthy</string>
+    <string name="location">Location</string>
+    <string name="update">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
 </resources>
